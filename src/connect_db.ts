@@ -1,5 +1,5 @@
 const { MongoClient, ServerApiVersion } = require('mongodb');
-const uri = "mongodb+srv://DanCas:7iTsaff6eU3XFds@apps.fvayi4y.mongodb.net/?retryWrites=true&w=majority&appName=Apps"; //wrong password
+const uri = "placeholder"; //wrong password
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {
   serverApi: {
